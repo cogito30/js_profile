@@ -19,4 +19,4 @@ cd <버전별 폴더>
 
 ## Result
 #### Profile(v2)
-- [v2](./profile_v2/result/result1.png)
+- ![v2](./profile_v2/result/result1.png)
