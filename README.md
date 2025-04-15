@@ -21,3 +21,4 @@ git clone https://github.com/cogito30/js_profile2.git
 
 ## Result
 ![Profile 결과물1](./result/result1.png)
+![Profile 결과물2](./result/result2.png)
