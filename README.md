@@ -19,5 +19,5 @@ cd <버전별 폴더>
 3) index.html를 브라우저로 열기
 
 ## Result
-![profile(v1) 결과물]()
+![profile(v1) 결과물](./profile_v1/result/result1.png)
 ![profile(v2) 결과물](./profile_v2/result/result1.png)
