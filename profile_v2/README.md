@@ -1,4 +1,4 @@
-# Profile
+# Profile(v2)
 
 ## Description
 HTML, CSS, JavaScript를 Resume 제작
@@ -12,13 +12,6 @@ HTML, CSS, JavaScript를 Resume 제작
 - 프로젝트
 - 자격증 / 대내외활동
 
-## How To Use
-1) repository 다운받기
-```
-git clone https://github.com/cogito30/js_profile2.git
-```
-2) index.html를 브라우저로 열기
-
 ## Result
-![Profile 결과물1](./result/result1.png)
-![Profile 결과물2](./result/result2.png)
+![Profile(v2) 결과물1](./result/result1.png)
+![Profile(v2) 결과물2](./result/result2.png)
